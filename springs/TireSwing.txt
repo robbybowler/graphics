@@ -1,0 +1,137 @@
+Particle 350 270 0 0 2 1
+Particle 250 250 0 0 .8 0
+
+Particle 265 245 0 0 .8 0
+Particle 270 230 0 0 .8 0
+Particle 265 215 0 0 .8 0
+Particle 250 210 0 0 .8 0
+Particle 235 215 0 0 .8 0
+Particle 230 230 0 0 .8 0
+Particle 235 245 0 0 .8 0
+
+Particle 250 245 0 0 .8 0
+Particle 260 240 0 0 .8 0
+Particle 265 230 0 0 .8 0
+Particle 260 220 0 0 .8 0
+Particle 250 215 0 0 .8 0
+Particle 240 220 0 0 .8 0
+Particle 235 230 0 0 .8 0
+Particle 240 240 0 0 .8 0
+
+Particle 260 0 0 0 .8 1
+Particle 280 100 0 0 .8 1
+Particle 290 200 0 0 .8 1
+Particle 290 300 0 0 .8 1
+Particle 290 400 0 0 .8 1
+Particle 200 410 0 0 .8 1
+Particle 130 390 0 0 .8 1
+Particle 90 400 0 0 .8 1
+Particle 70 410 0 0 .8 1
+Particle 60 430 0 0 .8 1
+Particle 50 450 0 0 .8 1
+Particle 45 470 0 0 .8 1
+Particle 40 490 0 0 .8 1
+Particle 40 500 0 0 .8 1
+
+
+
+Particle 450 0 0 0 .8 1
+Particle 420 100 0 0 .8 1
+Particle 410 200 0 0 .8 1
+Particle 410 300 0 0 .8 1
+Particle 410 400 0 0 .8 1
+
+Particle 500 410 0 0 .8 1
+Particle 580 390 0 0 .8 1
+Particle 620 400 0 0 .8 1
+Particle 640 410 0 0 .8 1
+Particle 650 430 0 0 .8 1
+Particle 660 450 0 0 .8 1
+Particle 665 470 0 0 .8 1
+Particle 670 490 0 0 .8 1
+Particle 670 500 0 0 .8 1
+
+
+
+
+SpringForce 0 1
+SpringForce 1 2
+SpringForce 2 3
+SpringForce 3 4
+SpringForce 4 5
+SpringForce 5 6
+SpringForce 6 7
+SpringForce 7 8
+SpringForce 8 1
+
+SpringForce 9 1
+SpringForce 9 2
+SpringForce 9 10
+SpringForce 9 8
+SpringForce 10 2
+SpringForce 10 1
+SpringForce 10 11
+SpringForce 10 3
+
+SpringForce 11 3
+SpringForce 11 4
+SpringForce 11 12
+SpringForce 11 2
+
+SpringForce 12 4
+SpringForce 12 5
+SpringForce 12 13
+SpringForce 12 3
+
+SpringForce 13 5
+SpringForce 13 6
+SpringForce 13 14
+SpringForce 13 4
+
+SpringForce 14 6
+SpringForce 14 7
+SpringForce 14 15
+SpringForce 14 5
+
+SpringForce 15 7
+SpringForce 15 8
+SpringForce 15 16
+SpringForce 15 6
+
+SpringForce 16 8
+SpringForce 16 9
+SpringForce 16 1
+SpringForce 16 7
+
+SpringForceColor 9 13 .5 .8 .3
+SpringForceColor 11 15 .5 .8 .3
+
+SpringForceColor 17 18 .8 .5 .3
+SpringForceColor 18 19 .8 .5 .3
+SpringForceColor 19 20 .8 .5 .3
+SpringForceColor 20 21 .8 .5 .3
+SpringForceColor 21 22 .5 .8 .3
+SpringForceColor 22 23 .5 .8 .3
+SpringForceColor 23 24 .5 .8 .3
+SpringForceColor 24 25 .5 .8 .3
+SpringForceColor 25 26 .5 .8 .3
+SpringForceColor 26 27 .5 .8 .3
+SpringForceColor 27 28 .5 .8 .3
+SpringForceColor 28 29 .5 .8 .3
+SpringForceColor 29 30 .5 .8 .3
+
+SpringForceColor 31 32 .8 .5 .3
+SpringForceColor 32 33 .8 .5 .3
+SpringForceColor 33 34 .8 .5 .3
+SpringForceColor 34 35 .8 .5 .3
+SpringForceColor 35 36 .5 .8 .3
+SpringForceColor 36 37 .5 .8 .3
+SpringForceColor 37 38 .5 .8 .3
+SpringForceColor 38 39 .5 .8 .3
+SpringForceColor 39 40 .5 .8 .3
+SpringForceColor 40 41 .5 .8 .3
+SpringForceColor 41 42 .5 .8 .3
+SpringForceColor 42 43 .5 .8 .3
+SpringForceColor 43 44 .5 .8 .3
+
+DeltaT .05

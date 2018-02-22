@@ -1,0 +1,27 @@
+Particle 250 350 0 0 2 0
+Particle 350 400 0 0 4 1
+Particle 0 200 0 0 4 1
+Particle 150 200 0 0 4 1
+Particle 150 0 0 0 4 0
+Particle 250 300 0 0 2 0
+Particle 0 400 0 0 2 1
+Particle 700 400 0 0 2 1
+Particle 240 300 0 0 2 0
+Particle 260 300 0 0 2 0
+
+
+
+
+
+
+
+SpringForce 0 1
+SpringForce 2 3
+SpringForce 3 4
+SpringForce 0 5
+SpringForce 1 6
+SpringForce 1 7
+SpringForce 0 8
+SpringForce 0 9
+SpringForce 5 8
+SpringForce 5 9

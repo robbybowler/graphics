@@ -1,0 +1,6 @@
+﻿  graphics1.cpp
+c:\users\robby\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\circle.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\robby\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\graphics1.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\robby\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\graphics1.cpp(101): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication2.vcxproj -> C:\Users\Robby\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\Robby\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
